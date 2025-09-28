@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1650051615 source:d:\vacsan2022\uncosmia\main.cpp
+	"ctrlmain.hpp"
+
+1650230001 d:\vacsan2022\uncosmia\visual.hpp
+	<allegro.h>
+
+1650049602 source:d:\vacsan2022\uncosmia\visual.cpp
+	"visual.hpp"
+
+1650249137 d:\vacsan2022\uncosmia\objts.hpp
+	"visual.hpp"
+	"times.hpp"
+
+1650247526 source:d:\vacsan2022\uncosmia\objts.cpp
+	"objts.hpp"
+
+1650248999 source:d:\vacsan2022\uncosmia\ctrlmain.cpp
+	"ctrlmain.hpp"
+	<list>
+
+1650247856 d:\vacsan2022\uncosmia\ctrlmain.hpp
+	"PERSONAJE.hpp"
+	"MAPAS.hpp"
+
+1650229506 d:\vacsan2022\uncosmia\times.hpp
+
+1650229506 source:d:\vacsan2022\uncosmia\times.cpp
+	"times.hpp"
+
+1650238293 source:d:\vacsan2022\uncosmia\personaje.cpp
+	"PERSONAJE.hpp"
+
+1650247802 d:\vacsan2022\uncosmia\personaje.hpp
+	"objts.hpp"
+
+1650245727 source:d:\vacsan2022\uncosmia\mapas.cpp
+	"MAPAS.hpp"
+
+1650245431 d:\vacsan2022\uncosmia\mapas.hpp
+	"visual.hpp"
+
+1650249000 source:d:\vacsan2022\uncosmia\enemigos.cpp
+	"PERSONAJE.hpp"
+
